@@ -1,0 +1,13 @@
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\obj\Debug\netcoreapp3.1\CapStone7_24.csprojAssemblyReference.cache
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\obj\Debug\netcoreapp3.1\CapStone7_24.AssemblyInfoInputs.cache
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\obj\Debug\netcoreapp3.1\CapStone7_24.AssemblyInfo.cs
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\obj\Debug\netcoreapp3.1\CapStone7_24.csproj.CoreCompileInputs.cache
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\bin\Debug\netcoreapp3.1\CapStone7_24.exe
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\bin\Debug\netcoreapp3.1\CapStone7_24.deps.json
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\bin\Debug\netcoreapp3.1\CapStone7_24.runtimeconfig.json
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\bin\Debug\netcoreapp3.1\CapStone7_24.runtimeconfig.dev.json
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\bin\Debug\netcoreapp3.1\CapStone7_24.dll
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\bin\Debug\netcoreapp3.1\CapStone7_24.pdb
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\obj\Debug\netcoreapp3.1\CapStone7_24.dll
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\obj\Debug\netcoreapp3.1\CapStone7_24.pdb
+C:\Users\yllek\source\repos\CapStoneWIP\CapStone7_24\obj\Debug\netcoreapp3.1\CapStone7_24.genruntimeconfig.cache

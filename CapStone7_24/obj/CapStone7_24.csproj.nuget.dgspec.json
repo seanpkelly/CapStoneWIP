@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yllek\\source\\repos\\CapStone7_24\\CapStone7_24\\CapStone7_24.csproj": {}
+    "C:\\Users\\yllek\\source\\repos\\CapStoneWIP\\CapStone7_24\\CapStone7_24.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yllek\\source\\repos\\CapStone7_24\\CapStone7_24\\CapStone7_24.csproj": {
+    "C:\\Users\\yllek\\source\\repos\\CapStoneWIP\\CapStone7_24\\CapStone7_24.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yllek\\source\\repos\\CapStone7_24\\CapStone7_24\\CapStone7_24.csproj",
+        "projectUniqueName": "C:\\Users\\yllek\\source\\repos\\CapStoneWIP\\CapStone7_24\\CapStone7_24.csproj",
         "projectName": "CapStone7_24",
-        "projectPath": "C:\\Users\\yllek\\source\\repos\\CapStone7_24\\CapStone7_24\\CapStone7_24.csproj",
+        "projectPath": "C:\\Users\\yllek\\source\\repos\\CapStoneWIP\\CapStone7_24\\CapStone7_24.csproj",
         "packagesPath": "C:\\Users\\yllek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yllek\\source\\repos\\CapStone7_24\\CapStone7_24\\obj\\",
+        "outputPath": "C:\\Users\\yllek\\source\\repos\\CapStoneWIP\\CapStone7_24\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yllek\\AppData\\Roaming\\NuGet\\NuGet.Config",
